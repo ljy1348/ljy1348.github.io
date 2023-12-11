@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.ef5d8161.css",
-    "main.js": "/static/js/main.9415e9cc.js",
+    "main.js": "/static/js/main.da84860b.js",
     "static/js/787.25471cf6.chunk.js": "/static/js/787.25471cf6.chunk.js",
     "static/media/cta-bg.jpg": "/static/media/cta-bg.314069eaf3191d75946a.jpg",
     "index.html": "/index.html",
     "main.ef5d8161.css.map": "/static/css/main.ef5d8161.css.map",
-    "main.9415e9cc.js.map": "/static/js/main.9415e9cc.js.map",
+    "main.da84860b.js.map": "/static/js/main.da84860b.js.map",
     "787.25471cf6.chunk.js.map": "/static/js/787.25471cf6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef5d8161.css",
-    "static/js/main.9415e9cc.js"
+    "static/js/main.da84860b.js"
   ]
 }
