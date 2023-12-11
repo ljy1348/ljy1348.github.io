@@ -4,6 +4,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+/* eslint-disable */
 (function() {
   "use strict";
 
